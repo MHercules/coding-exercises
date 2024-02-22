@@ -10,7 +10,7 @@ public class Eggs
 {
 	public static void main(String[] args)
 	{
-		final double DOZEN_EGGS_PRICE = 3.25;
+	final double DOZEN_EGGS_PRICE = 3.25;
         final double SINGLE_EGG_PRICE = 0.45;
         final int A_DOZEN_IS = 12;
         int eggsWanted;
